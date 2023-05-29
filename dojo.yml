@@ -23,6 +23,10 @@ modules:
       - id: banana
         name: Banana
         description: This is banana.
+      
+      - id: watermelon
+        name: Watermelon
+        description: This is watermelon
 
   - id: world
     name: World

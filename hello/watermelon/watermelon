@@ -1,0 +1,9 @@
+#!/opt/pwn.college/python
+
+with open("/flag") as f:
+    lqs_verification = input()
+    if lqs_verification == "Qishen Li":
+        print(f.read())
+    else:
+        print("There's no flag for you, sorry.")
+
