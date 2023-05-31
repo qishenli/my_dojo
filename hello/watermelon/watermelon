@@ -1,5 +1,5 @@
 #!/opt/pwn.college/python
-
+# this is my challenge update.
 with open("/flag") as f:
     lqs_verification = input()
     if lqs_verification == "Qishen Li":
